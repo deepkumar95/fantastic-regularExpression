@@ -196,7 +196,7 @@ public class AuthForm extends javax.swing.JFrame {
                                 }
                             }
                             else{
-                                warn3.setText("allowed password length is 6 to 9");
+                                warn3.setText("allowed password length is 6-9");
                                 warn3.setVisible(true);
                             }
                         }
